@@ -1,9 +1,8 @@
-using System;
 using Xunit;
 
 namespace Methods.Params
 {
-    public class UnitTest1
+    public class MainTests
     {
         [Fact]
         public void Test1()
